@@ -1,0 +1,27 @@
+********console and cloud shell**********
+
+
+
+### Task 1: Create a bucket using the Cloud Console
+          
+    In this task i created a bucket using cloudshell described in the lab using the following command
+    {
+           gsutil mb gs:// qwiklabs-gcp-00-8831560c1413-bucketone
+    }
+
+### Task 2: Access Cloud Shell
+      
+     this does not have any command to open it, but once you are in it you can use it on many GCP services 
+
+###  Task 3: Create a bucket using Cloud Shell   
+
+ In this task i created a bucket using cloudshell described in the lab using the following command
+    {
+           gsutil mb gs:// qwiklabs-gcp-00-8831560c1413-buckettwo
+    }
+
+### Task 5: Create a persistent state in Cloud Shell
+         {
+           the rest of the task was only commands
+         }      
+          
